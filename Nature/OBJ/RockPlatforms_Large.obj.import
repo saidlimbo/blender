@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ehlv7hourfuw"
+path="res://.godot/imported/RockPlatforms_Large.obj-663115e7679d2476f7cb64ecc598ed79.mesh"
+
+[deps]
+
+files=["res://.godot/imported/RockPlatforms_Large.obj-663115e7679d2476f7cb64ecc598ed79.mesh"]
+
+source_file="res://Nature/OBJ/RockPlatforms_Large.obj"
+dest_files=["res://.godot/imported/RockPlatforms_Large.obj-663115e7679d2476f7cb64ecc598ed79.mesh", "res://.godot/imported/RockPlatforms_Large.obj-663115e7679d2476f7cb64ecc598ed79.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

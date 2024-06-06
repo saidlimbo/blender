@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://kuo1ont8aeqj"
+path="res://.godot/imported/Plant_Large.obj-4771d3ae4169d3823c13efe40bb2459f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Plant_Large.obj-4771d3ae4169d3823c13efe40bb2459f.mesh"]
+
+source_file="res://Level and Mechanics/OBJ/Plant_Large.obj"
+dest_files=["res://.godot/imported/Plant_Large.obj-4771d3ae4169d3823c13efe40bb2459f.mesh", "res://.godot/imported/Plant_Large.obj-4771d3ae4169d3823c13efe40bb2459f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

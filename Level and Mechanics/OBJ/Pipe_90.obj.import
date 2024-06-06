@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://miufj3ucwxdu"
+path="res://.godot/imported/Pipe_90.obj-f7afc803158a99a790246e2f4a7c43d5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Pipe_90.obj-f7afc803158a99a790246e2f4a7c43d5.mesh"]
+
+source_file="res://Level and Mechanics/OBJ/Pipe_90.obj"
+dest_files=["res://.godot/imported/Pipe_90.obj-f7afc803158a99a790246e2f4a7c43d5.mesh", "res://.godot/imported/Pipe_90.obj-f7afc803158a99a790246e2f4a7c43d5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

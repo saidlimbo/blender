@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://5kytyar1fgff"
+path="res://.godot/imported/RockPlatforms_Medium.obj-b6c4eb93bacf31ff25c6fba7a65976fe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/RockPlatforms_Medium.obj-b6c4eb93bacf31ff25c6fba7a65976fe.mesh"]
+
+source_file="res://Nature/OBJ/RockPlatforms_Medium.obj"
+dest_files=["res://.godot/imported/RockPlatforms_Medium.obj-b6c4eb93bacf31ff25c6fba7a65976fe.mesh", "res://.godot/imported/RockPlatforms_Medium.obj-b6c4eb93bacf31ff25c6fba7a65976fe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

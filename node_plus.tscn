@@ -1,0 +1,39 @@
+[gd_scene load_steps=2 format=3 uid="uid://2idr7xy6mfmo"]
+
+[ext_resource type="Script" path="res://Label2.gd" id="1_ruoqu"]
+
+[node name="Node2D" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_top = 1.0
+offset_right = 149.0
+offset_bottom = 56.0
+theme_override_font_sizes/font_size = 30
+text = "minus:-"
+
+[node name="Label3" type="Label" parent="."]
+layout_mode = 0
+offset_left = 996.0
+offset_right = 1106.0
+offset_bottom = 55.0
+theme_override_font_sizes/font_size = 30
+text = "plus:+"
+
+[node name="Label2" type="Label" parent="."]
+layout_mode = 0
+offset_left = 107.0
+offset_top = 1.0
+offset_right = 168.0
+offset_bottom = 56.0
+theme_override_font_sizes/font_size = 30
+script = ExtResource("1_ruoqu")
+
+[node name="Label4" type="Label" parent="."]
+layout_mode = 0
+offset_left = 1083.0
+offset_right = 1144.0
+offset_bottom = 55.0
+theme_override_font_sizes/font_size = 30

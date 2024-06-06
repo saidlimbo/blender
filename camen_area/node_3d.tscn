@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://ckdsh26oki7jm"]
+
+[ext_resource type="PackedScene" uid="uid://cik7yit7rw5tu" path="res://Nature/glTF/RockPlatform_Tall.gltf" id="1_kqj8m"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_eps35"]
+radius = 1.99854
+height = 6.00989
+
+[node name="Node3D" type="Area3D"]
+transform = Transform3D(0.301679, 0, 0, 0, 0.211423, 0, 0, 0, 0.325, 0, 0, 0)
+
+[node name="RockPlatform_Tall2" parent="." instance=ExtResource("1_kqj8m")]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.43962, 0)
+shape = SubResource("CapsuleShape3D_eps35")

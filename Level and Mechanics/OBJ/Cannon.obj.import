@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://yhoc15n53px4"
+path="res://.godot/imported/Cannon.obj-7ade372b308b30b918dbc903080b82d3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Cannon.obj-7ade372b308b30b918dbc903080b82d3.mesh"]
+
+source_file="res://Level and Mechanics/OBJ/Cannon.obj"
+dest_files=["res://.godot/imported/Cannon.obj-7ade372b308b30b918dbc903080b82d3.mesh", "res://.godot/imported/Cannon.obj-7ade372b308b30b918dbc903080b82d3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

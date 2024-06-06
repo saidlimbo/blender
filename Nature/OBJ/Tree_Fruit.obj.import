@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c5q3d4uh51aar"
+path="res://.godot/imported/Tree_Fruit.obj-c5faf719949c8d132f61da2bdc77c4ce.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Tree_Fruit.obj-c5faf719949c8d132f61da2bdc77c4ce.mesh"]
+
+source_file="res://Nature/OBJ/Tree_Fruit.obj"
+dest_files=["res://.godot/imported/Tree_Fruit.obj-c5faf719949c8d132f61da2bdc77c4ce.mesh", "res://.godot/imported/Tree_Fruit.obj-c5faf719949c8d132f61da2bdc77c4ce.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

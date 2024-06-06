@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bjarcdqp0rcl8"
+path="res://.godot/imported/Bridge_Modular_Center.obj-d102f99b3a3f5880c6471bfa3c3cfe16.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Bridge_Modular_Center.obj-d102f99b3a3f5880c6471bfa3c3cfe16.mesh"]
+
+source_file="res://Level and Mechanics/OBJ/Bridge_Modular_Center.obj"
+dest_files=["res://.godot/imported/Bridge_Modular_Center.obj-d102f99b3a3f5880c6471bfa3c3cfe16.mesh", "res://.godot/imported/Bridge_Modular_Center.obj-d102f99b3a3f5880c6471bfa3c3cfe16.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

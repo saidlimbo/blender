@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cu4vitdglnv0r"
+path="res://.godot/imported/Bridge_Small.obj-0f69519e56b913f631c088c2282330da.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Bridge_Small.obj-0f69519e56b913f631c088c2282330da.mesh"]
+
+source_file="res://Level and Mechanics/OBJ/Bridge_Small.obj"
+dest_files=["res://.godot/imported/Bridge_Small.obj-0f69519e56b913f631c088c2282330da.mesh", "res://.godot/imported/Bridge_Small.obj-0f69519e56b913f631c088c2282330da.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

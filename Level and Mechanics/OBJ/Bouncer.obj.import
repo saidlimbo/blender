@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b6le1wdfoeqb3"
+path="res://.godot/imported/Bouncer.obj-4b535ebedbfe2d01ab745ebf63ff21f2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Bouncer.obj-4b535ebedbfe2d01ab745ebf63ff21f2.mesh"]
+
+source_file="res://Level and Mechanics/OBJ/Bouncer.obj"
+dest_files=["res://.godot/imported/Bouncer.obj-4b535ebedbfe2d01ab745ebf63ff21f2.mesh", "res://.godot/imported/Bouncer.obj-4b535ebedbfe2d01ab745ebf63ff21f2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

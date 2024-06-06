@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c2yffos3nbct0"
+path="res://.godot/imported/Goal_Flag.obj-c9f8bc0d1907a9616553c45bdb71de94.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Goal_Flag.obj-c9f8bc0d1907a9616553c45bdb71de94.mesh"]
+
+source_file="res://Level and Mechanics/OBJ/Goal_Flag.obj"
+dest_files=["res://.godot/imported/Goal_Flag.obj-c9f8bc0d1907a9616553c45bdb71de94.mesh", "res://.godot/imported/Goal_Flag.obj-c9f8bc0d1907a9616553c45bdb71de94.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

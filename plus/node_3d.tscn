@@ -1,0 +1,26 @@
+[gd_scene load_steps=4 format=3 uid="uid://cf65f62fmqwad"]
+
+[ext_resource type="PackedScene" uid="uid://bt0gvmoje0woo" path="res://plus.tscn" id="1_du22l"]
+[ext_resource type="Script" path="res://plus/node_3d.gd" id="1_lx35b"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_k07fu"]
+size = Vector3(0.103271, 0.49585, 0.0693359)
+
+[node name="Plus" type="Area3D"]
+script = ExtResource("1_lx35b")
+
+[node name="Plus" parent="." instance=ExtResource("1_du22l")]
+script = ExtResource("1_lx35b")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.000247821, 0, -0.00634766)
+shape = SubResource("BoxShape3D_k07fu")
+
+[node name="CollisionShape3D2" type="CollisionShape3D" parent="."]
+transform = Transform3D(-0.0146951, 0.999892, 0, -0.999892, -0.0146951, 0, 0, 0, 1, -0.00450189, 0, -0.00634766)
+shape = SubResource("BoxShape3D_k07fu")
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 0.2
+
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]

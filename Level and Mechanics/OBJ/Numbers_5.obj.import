@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c6n8ti3pc2ju2"
+path="res://.godot/imported/Numbers_5.obj-da9eff83fe71d16bc8a6613c6ce4bae2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Numbers_5.obj-da9eff83fe71d16bc8a6613c6ce4bae2.mesh"]
+
+source_file="res://Level and Mechanics/OBJ/Numbers_5.obj"
+dest_files=["res://.godot/imported/Numbers_5.obj-da9eff83fe71d16bc8a6613c6ce4bae2.mesh", "res://.godot/imported/Numbers_5.obj-da9eff83fe71d16bc8a6613c6ce4bae2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

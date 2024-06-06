@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://8u5gd5gdlhgv"
+path="res://.godot/imported/Bush_Fruit.obj-a82e5a87746bf06020a8abc326ff25cf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Bush_Fruit.obj-a82e5a87746bf06020a8abc326ff25cf.mesh"]
+
+source_file="res://Nature/OBJ/Bush_Fruit.obj"
+dest_files=["res://.godot/imported/Bush_Fruit.obj-a82e5a87746bf06020a8abc326ff25cf.mesh", "res://.godot/imported/Bush_Fruit.obj-a82e5a87746bf06020a8abc326ff25cf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

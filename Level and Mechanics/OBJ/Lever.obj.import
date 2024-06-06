@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dk16b4j0my5yj"
+path="res://.godot/imported/Lever.obj-884e2ee4a239c3e667551d62d06add08.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Lever.obj-884e2ee4a239c3e667551d62d06add08.mesh"]
+
+source_file="res://Level and Mechanics/OBJ/Lever.obj"
+dest_files=["res://.godot/imported/Lever.obj-884e2ee4a239c3e667551d62d06add08.mesh", "res://.godot/imported/Lever.obj-884e2ee4a239c3e667551d62d06add08.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

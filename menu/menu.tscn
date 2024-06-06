@@ -1,0 +1,42 @@
+[gd_scene load_steps=3 format=3 uid="uid://hkm2cv5vpypt"]
+
+[ext_resource type="Script" path="res://menu/menu.gd" id="1_37qde"]
+[ext_resource type="Texture2D" uid="uid://c8ott3qahgqri" path="res://Screenshot 2024-05-26 154943.png" id="1_eghaf"]
+
+[node name="Menu" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_37qde")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 0
+offset_right = 567.0
+offset_bottom = 200.0
+
+[node name="Screenshot2024-05-26154943" type="Sprite2D" parent="."]
+position = Vector2(576, 326)
+scale = Vector2(0.688436, 1.07781)
+texture = ExtResource("1_eghaf")
+
+[node name="Play" type="Button" parent="."]
+layout_mode = 0
+offset_left = 464.0
+offset_top = 145.0
+offset_right = 640.0
+offset_bottom = 237.0
+theme_override_font_sizes/font_size = 30
+text = "Play"
+
+[node name="Quit" type="Button" parent="."]
+modulate = Color(0.0213091, 0.550296, 0.689273, 1)
+self_modulate = Color(0.864598, 0.923531, 0.999999, 1)
+layout_mode = 0
+offset_left = 464.0
+offset_top = 299.0
+offset_right = 640.0
+offset_bottom = 391.0
+theme_override_font_sizes/font_size = 30
+text = "Quit"
+
+[connection signal="pressed" from="Play" to="." method="_on_play_pressed"]
+[connection signal="pressed" from="Quit" to="." method="_on_quit_pressed"]

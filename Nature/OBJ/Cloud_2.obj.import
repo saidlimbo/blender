@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bn4tgtm6qf5ox"
+path="res://.godot/imported/Cloud_2.obj-e4a1ab0de46838f7123042f3ec44bb23.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Cloud_2.obj-e4a1ab0de46838f7123042f3ec44bb23.mesh"]
+
+source_file="res://Nature/OBJ/Cloud_2.obj"
+dest_files=["res://.godot/imported/Cloud_2.obj-e4a1ab0de46838f7123042f3ec44bb23.mesh", "res://.godot/imported/Cloud_2.obj-e4a1ab0de46838f7123042f3ec44bb23.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

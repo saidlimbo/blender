@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://by8fnj3paw2we"
+path="res://.godot/imported/Stairs_Small.obj-a1780d20f12fc75409d468854f6b5137.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Stairs_Small.obj-a1780d20f12fc75409d468854f6b5137.mesh"]
+
+source_file="res://Level and Mechanics/OBJ/Stairs_Small.obj"
+dest_files=["res://.godot/imported/Stairs_Small.obj-a1780d20f12fc75409d468854f6b5137.mesh", "res://.godot/imported/Stairs_Small.obj-a1780d20f12fc75409d468854f6b5137.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
